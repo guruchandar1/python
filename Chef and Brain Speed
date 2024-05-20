@@ -3,3 +3,26 @@ if x>=y:
     print("no")
 else:
     print("yes")
+
+
+
+
+
+output:
+Sample 1:
+Input
+Output
+7 9
+YES
+Explanation:
+Chef's current brain speed of 
+9
+9 bps is greater than the threshold of 
+7
+7 bps, hence Chef is prone to errors.
+
+Sample 2:
+Input
+Output
+6 6
+NO
