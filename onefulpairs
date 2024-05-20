@@ -1,0 +1,15 @@
+Oneful Pairs
+Chef defines a pair of positive integers 
+
+(a,b) to be a 
+Oneful Pair
+Oneful Pair, if
+
+111
+a+b+(a⋅b)=111
+
+
+
+a, b = map(int, input().split())
+result = "Yes" if a + b + a*b == 111 else "No"
+print(result)
