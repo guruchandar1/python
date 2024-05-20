@@ -1,2 +1,22 @@
 a = int(input())
 print(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample 1:
+Input
+Output
+123
+123
