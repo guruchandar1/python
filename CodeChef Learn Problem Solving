@@ -1,2 +1,15 @@
 a=int(input())
 print(2*a)
+
+
+
+
+
+
+
+
+Sample 1:
+Input
+Output
+4
+8
