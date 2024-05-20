@@ -1,0 +1,42 @@
+
+t = int(input())
+for _ in range(t):
+    x, y = map(int, input().split())
+    if x + y > 6:
+        print("Yes")
+    else:
+        print("No")
+
+
+
+
+
+
+
+Constraints
+1
+≤
+𝑇
+≤
+100
+1≤T≤100
+1
+≤
+𝑋
+,
+𝑌
+≤
+6
+1≤X,Y≤6
+Sample 1:
+Input
+Output
+4
+1 4
+3 4
+4 2
+2 6
+NO
+YES
+NO
+YES
