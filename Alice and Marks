@@ -4,3 +4,33 @@ if x >= 2 * y:
     print("Yes")
 else:
     print("No")
+
+
+
+
+Sample 1:
+Input
+Output
+2 1
+Yes
+Explanation:
+Alice has scored 
+𝑋
+=
+2
+X=2 marks whereas Bob has scored 
+𝑌
+=
+1
+Y=1 mark. As Alice has scored twice as much as Bob (i.e. 
+𝑋
+≥
+2
+𝑌
+X≥2Y), the answer is Yes.
+
+Sample 2:
+Input
+Output
+1 2
+No
