@@ -1,3 +1,44 @@
 
 x, y = map(int,input().split())
 print(x * y)
+
+
+
+
+Sample 1:
+Input
+Output
+3 7
+21
+Explanation:
+Chef cooks for 
+𝑌
+=
+7
+Y=7 minutes and can cook 
+𝑋
+=
+3
+X=3 packets per minute, one on each stove.
+
+So, the total number of packets that can be cooked is 
+𝑋
+⋅
+𝑌
+=
+3
+⋅
+7
+=
+21
+X⋅Y=3⋅7=21.
+
+Each person orders one packet, so the maximum number of customers that can be served is 
+21
+21.
+
+Sample 2:
+Input
+Output
+7 8
+56
